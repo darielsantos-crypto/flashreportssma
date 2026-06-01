@@ -1,8 +1,8 @@
 {
   "name": "Flash Report Lucena",
   "short_name": "Flash Report",
-  "description": "Editor de Flash Report SSMA da Lucena",
-  "start_url": "./",
+  "description": "Flash Report Lucena",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
